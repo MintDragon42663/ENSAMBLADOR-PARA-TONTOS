@@ -6,5 +6,5 @@ Hola compañero, si estas leyendo significa que estás desesperado para poder pa
 
 ## Authors
 
-- [@MintDragon42663](https://https://github.com/MintDragon42663)
+- [@MintDragon42663](https://github.com/MintDragon42663)
 
